@@ -3,7 +3,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a small indie game.
-- 🌱 I’m currently learning Swift and Java
+- 🌱 I’m currently learning Swift and Java.
 - 👯 I’m looking to collaborate on anything indie game related. 
 - 🤔 I’m looking for help with cooking.
 - 💬 Ask me about my workout routine.
