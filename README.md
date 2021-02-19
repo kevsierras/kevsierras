@@ -9,4 +9,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about my workout routine.
 - 📫 How to reach me: kevsierras96@gmail.com
 - 😄 Pronouns: **_based_**
-- ⚡ Fun fact: ***I love cooking but I'm terrible at it***
+- ⚡ Fun fact: I love cooking but I'm ***terrible*** at it.
