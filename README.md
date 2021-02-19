@@ -8,5 +8,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with _cooking_.
 - 💬 Ask me about my workout routine.
 - 📫 How to reach me: kevsierras96@gmail.com
-- 😄 Pronouns: ~~based~~
+- 😄 Pronouns: ** _based_ **
 - ⚡ Fun fact: ***I love cooking but I'm terrible at it***
