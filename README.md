@@ -1,6 +1,6 @@
 ### Hi there 👋 Name's Kevin Sierras!
 
-Here are some ideas to get you started:
+==================================================================
 
 - 🔭 I’m currently working on a small indie game.
 - 🌱 I’m currently learning Swift and ~~Java~~.
@@ -10,3 +10,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: kevsierras96@gmail.com
 - 😄 Pronouns: **_based_**
 - ⚡ Fun fact: I love cooking but I'm ***terrible*** at it.
+
+==================================================================
